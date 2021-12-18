@@ -1,4 +1,4 @@
-matnr(612229).
+author(JanAsche).
 
 nimm(E,[E|Y],Y).
 nimm(E, [H|X], [H|Y]) :- nimm(E,X,Y).
@@ -46,5 +46,3 @@ raetsel(F, A, K, E, C, S, T, O, R, Y) :-
 	O =\= R, O =\= Y,
 	R =\= Y.
 	
-
-
