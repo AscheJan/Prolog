@@ -1,4 +1,4 @@
-matnr(612229).
+author(JanAsche).
 
 not_member(_, []).
 not_member(X, [X | _]) :- !, fail.
