@@ -1,4 +1,4 @@
-matnr(612229).
+author(JanAsche).
 lauf(start).
 lauf(vorwaerts(X)) :- lauf(X).
 lauf(zurueck(X)) :- lauf(X).
