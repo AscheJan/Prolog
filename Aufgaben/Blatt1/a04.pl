@@ -1,3 +1,4 @@
+author(JanAsche).
 verwandt(luke, lea).
 gute_seite(han).
 mag(lea, han).
