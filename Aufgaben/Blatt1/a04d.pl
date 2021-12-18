@@ -1,3 +1,4 @@
+author(JanAsche).
 verwandt(luke, darth_vader).
 verwandt(luke , lea).
 gute_seite(han).
