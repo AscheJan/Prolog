@@ -1,4 +1,4 @@
-matnr(612229).
+author(JanAsche).
 
 label(leaf(X), X).
 label(tree(A, B), X) :- label(A, X); label(B, X).
