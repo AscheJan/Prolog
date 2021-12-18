@@ -1,4 +1,4 @@
-matnr(612229).
+author(JanAsche).
 
 :- ensure_loaded([al]).
 
